@@ -1,4 +1,4 @@
-![Fullstack JavaScript Developer | 💼 Substance Use Disorder Treatment Expert]
+![Fullstack JavaScript Developer | 💼 Substance Use Disorder Treatment Expert](https://github.com/NathanSamuelCano/NathanSamuelCano/blob/main/newbanner.png?raw=true)
 
 <h1>Nathan Cano - Full-Stack Web Developer</h1><br>
 
