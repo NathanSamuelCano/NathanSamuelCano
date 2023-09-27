@@ -1,6 +1,7 @@
 ### Hi there 👋, My name is Nathan Cano
 ####  🚀 Fullstack JavaScript Developer | 💼 Substance Use Disorder Treatment Expert
-![ 🚀 Fullstack JavaScript Developer | 💼 Substance Use Disorder Treatment Expert](https://twitter.com/scalablejoy/header_photo)
+![(https://twitter.com/scalablejoy/header_photo)]
+🚀 Fullstack JavaScript Developer | 💼 Substance Use Disorder Treatment Expert
 
 👋 Hi there! I'm Nathan Cano, a passionate Fullstack JavaScript Developer with a unique background spanning over nearly decade in substance use disorder treatment. I've successfully merged my experience as a manager, clinician, and administrator with my love for coding to create innovative solutions that make a difference to both clinicians and clients.
 
