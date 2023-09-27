@@ -21,4 +21,4 @@
 
 🌍 **Location**: Based in [Los Angeles, Ca, USA]
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathansamuelcano&theme=dark&show_icons=true)
