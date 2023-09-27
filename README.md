@@ -3,7 +3,7 @@
 Nathan Cano
 I'm Nathan Cano, a passionate Fullstack JavaScript Developer with a unique background spanning over nearly decade in substance use disorder treatment. I've successfully merged my experience as a manager, clinician, and administrator with my love for coding to create innovative solutions that make a difference to both clinicians and clients.
 
-🔧 **Tech Stack**: 
+<br>🔧 **Tech Stack**: 
 ![icons8-javascript-50](https://github.com/NathanSamuelCano/NathanSamuelCano/assets/141295266/12fb8261-36a8-496e-b661-b8e3a3db1e05)
 ![icons8-nodejs-48](https://github.com/NathanSamuelCano/NathanSamuelCano/assets/141295266/bb5a7874-7795-477e-b68a-54c76a86d03e)
 ![icons8-react-50](https://github.com/NathanSamuelCano/NathanSamuelCano/assets/141295266/523f7c3a-356e-4130-aa78-3d6e689f94ac)
