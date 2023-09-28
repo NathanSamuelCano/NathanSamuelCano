@@ -26,8 +26,8 @@ I'm Nathan Cano, a passionate Fullstack JavaScript Developer with a unique backg
 
 🌐 **Portfolio**: Check out my projects on GitHub to see how I've combined my diverse skill set to create meaningful applications that solve real-world problems.
 
-🌍 **Location**: Based in [Los Angeles, Ca, USA]
-and use in your profile.
+🌍 **Location**: Based in Los Angeles, CA, USA
+
 
 
 
