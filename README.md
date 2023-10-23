@@ -1,6 +1,6 @@
 ![Fullstack JavaScript Developer | 💼 Substance Use Disorder Treatment Expert](https://github.com/NathanSamuelCano/NathanSamuelCano/blob/main/newbanner.png?raw=true)
 
-<h1>Nathan Cano - Web Developer & Clinician</h1><br>
+<h1>Nathan Cano - Web Developer & Addiction Treatment Professional</h1><br>
 
 I'm Nathan Cano, a passionate Fullstack JavaScript Developer with a unique background spanning over nearly decade in substance use disorder treatment. I've successfully merged my experience as a manager, clinician, and administrator with my love for coding to create innovative solutions that make a difference to both clinicians and clients.
 
